@@ -1,17 +1,18 @@
 header{
   width: 100%;
-  background: red;
+  color: white;
   text-align: center;
-  height: 10vh;
+  height: 6;
   font-size: 200%;
-  margin-top: 4%
+  margin-top: 0%;
+  color: white;
 }
 
 body{
 
   background: red;
   height: 89vh;
-  color: white;
+  color: red;
 
   margin: 3%
 
@@ -29,6 +30,8 @@ height: 90%;
 p
 {
 color: white;
+float: center;
+align: center;
 }
 
 .textside{
@@ -40,12 +43,13 @@ height: 90%;
 }
 
 h1{
-font-size: 30px;
+font-size: 15px;
 float: left;
-margin: 30px;
+/* margin: 30px;
 margin-right: 50px;
-margin-left: 200px;
-
+margin-left: 200px; */
+color: red;
+margin: 10px;
 
 }
 h2{
@@ -57,9 +61,7 @@ h2{
   display: none;
 }
 
-p {
-  cursor: pointer;
-}
+
 
 #myButton{
 font-size: 150%;
@@ -67,9 +69,34 @@ float: left;
 margin-left: 30%;
 
 }
-#YesButton2 {
+.img{
+float: center;
+align: center;
+width: 40%;
+margin-left:
+
+
+}
+#img1{
+float: center;
+align: center;
+width: 90%;
+
+
+}
+#scene3, #scene4, #scene5, #scene6{
+align: center;
+margin-left: 8%;
+float: center;
+
+}
+
+
+/* #YesButton2, #YesButton1, #NoButton1 {
   display: none;
 cursor: pointer;
 
 
-}
+} */
+
+/
