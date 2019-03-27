@@ -5,14 +5,14 @@ header{
   height: 6;
   font-size: 200%;
   margin-top: 0%;
-  color: white;
+  color: red;
 }
 
 body{
 
-  background: red;
+  background: white;
   height: 89vh;
-  color: red;
+  color: white;
 
   margin: 3%
 
@@ -29,7 +29,7 @@ height: 90%;
 }
 p
 {
-color: white;
+color: red;
 float: center;
 align: center;
 }
@@ -84,13 +84,21 @@ width: 90%;
 
 
 }
-#scene3, #scene4, #scene5, #scene6{
+#scene3, #scene4, #scene5, #scene6, #scene7, #scene8, #scene9, #scene10, #scene11, #scene12, #scene13, #scene14, #scene15, #scene16{
 align: center;
 margin-left: 8%;
 float: center;
 
 }
 
+#img2{
+align-items: center;
+align: center;
+float: center;
+margin-left: 20%;
+
+
+}
 
 /* #YesButton2, #YesButton1, #NoButton1 {
   display: none;
