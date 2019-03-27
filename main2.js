@@ -109,5 +109,11 @@ $("#header").hide();
     $("#header").hide();
 
   });
+  $("#yesScene15").click(function () {
+    $("#scene1").show();
+    $("#scene15").hide();
+    $("#header").hide();
+
+  });
 
 });
